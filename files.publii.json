@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d7269de9e9019b892f5c1a33c4b7f03e"
+        "md5": "5d46a68ff081c9ec3b93a2d67c34a5e7"
     },
     {
         "path": "a-complete-guide-to-stylish-and-functional-modern-kitchens",
@@ -12,7 +12,7 @@
     {
         "path": "/a-complete-guide-to-stylish-and-functional-modern-kitchens/index.html",
         "type": "file",
-        "md5": "d8c63b29a5f634301f73d0b6cfe8dd20"
+        "md5": "d4b8233c9fb20fa2b83bbae0bd13d216"
     },
     {
         "path": "a-modern-and-efficient-solution-for-stylish-kitchen-designs",
@@ -22,7 +22,17 @@
     {
         "path": "/a-modern-and-efficient-solution-for-stylish-kitchen-designs/index.html",
         "type": "file",
-        "md5": "2ccc0837b01dce2f48f349c1ac301928"
+        "md5": "fb0cbe73da8ed485c065c91562521492"
+    },
+    {
+        "path": "a-modern-and-energy-efficient-choice-for-contemporary-kitchens",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-modern-and-energy-efficient-choice-for-contemporary-kitchens/index.html",
+        "type": "file",
+        "md5": "fc92c402b09b95b718d758f34ab7ec90"
     },
     {
         "path": "a-smart-and-stylish-solution-for-modern-kitchens",
@@ -32,7 +42,7 @@
     {
         "path": "/a-smart-and-stylish-solution-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "206bf53e3a51cda97210d7182cb796f6"
+        "md5": "76d1a03c4aa9eb9184171bac156d8fbb"
     },
     {
         "path": "about-us",
@@ -42,7 +52,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "8ad8ca528db36d8310bac29e31ac1169"
+        "md5": "7fa8389ebff68a69fa9852f39f8d8974"
     },
     {
         "path": "assets",
@@ -127,7 +137,7 @@
     {
         "path": "/authors/mark-e-thomas/index.html",
         "type": "file",
-        "md5": "317bb699ec4c484bace97655f1f709c7"
+        "md5": "555bb1b8e297e905f75750404688db59"
     },
     {
         "path": "authors/mark-e-thomas/page",
@@ -142,7 +152,7 @@
     {
         "path": "/authors/mark-e-thomas/page/2/index.html",
         "type": "file",
-        "md5": "bfe16845c7fee5d114a3a9f78b2e40e7"
+        "md5": "747755ac6d25793d000a9fec104d3a8a"
     },
     {
         "path": "built-in-ovens-a-perfect-blend-of-modern-design-and-cooking-performance",
@@ -152,7 +162,7 @@
     {
         "path": "/built-in-ovens-a-perfect-blend-of-modern-design-and-cooking-performance/index.html",
         "type": "file",
-        "md5": "2cfedafaa27092d4dea21cf42a5435cd"
+        "md5": "cf3f0b169620140d65a335a980ff0632"
     },
     {
         "path": "combining-modern-style-and-everyday-kitchen-convenience",
@@ -162,7 +172,7 @@
     {
         "path": "/combining-modern-style-and-everyday-kitchen-convenience/index.html",
         "type": "file",
-        "md5": "62a49f976a51a34c9d0ab6b351b3882d"
+        "md5": "91fd89cf71ad0f11ba91cfaa59f83f4c"
     },
     {
         "path": "contact-us",
@@ -172,7 +182,7 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "6f957c502bf77b43370c905cacf082f6"
+        "md5": "dc32b86fca6084a5f2baa1c37aa644a8"
     },
     {
         "path": "creating-spacious-and-functional-kitchen-interiors",
@@ -182,17 +192,17 @@
     {
         "path": "/creating-spacious-and-functional-kitchen-interiors/index.html",
         "type": "file",
-        "md5": "430c3377ca42f598fbda3629fc588051"
+        "md5": "16a6f540370a821eb80d36ac93bb8f76"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "700b3b105ec78bb84d1b2795b8aed345"
+        "md5": "68126948e4decaf54578ed87e3434b13"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "655081115cc47a84423e3bc18233e8f1"
+        "md5": "5793c2d4beeb2f7a6f51fc641d6843c1"
     },
     {
         "path": "handleless-cabinets-sleek-and-elegant-solutions-for-contemporary-kitchens",
@@ -202,12 +212,12 @@
     {
         "path": "/handleless-cabinets-sleek-and-elegant-solutions-for-contemporary-kitchens/index.html",
         "type": "file",
-        "md5": "6298b09c83b24132ef67e39dc35214b7"
+        "md5": "7e40c33fb7489bd72106d86ca8e9c9f0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "19f6fc6fe9524cb7eb895edbac28c3e7"
+        "md5": "d6846b02ebd0a85adf814c162789745b"
     },
     {
         "path": "integrated-dishwashers-a-seamless-and-stylish-solution-for-modern-kitchens",
@@ -217,7 +227,7 @@
     {
         "path": "/integrated-dishwashers-a-seamless-and-stylish-solution-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "efee36884d063e87a32f697e20625f05"
+        "md5": "6384bf9156c8c89b7f240fa7028f57c2"
     },
     {
         "path": "island-countertops-stylish-and-functional-ideas-for-the-perfect-kitchen",
@@ -227,7 +237,7 @@
     {
         "path": "/island-countertops-stylish-and-functional-ideas-for-the-perfect-kitchen/index.html",
         "type": "file",
-        "md5": "b72643895f798e7162d65703e6d8d39a"
+        "md5": "c85dc03ecad5ebf02d969d29cfef1fc2"
     },
     {
         "path": "led-mirrors-modern-lighting-and-elegant-bathroom-solutions",
@@ -237,7 +247,7 @@
     {
         "path": "/led-mirrors-modern-lighting-and-elegant-bathroom-solutions/index.html",
         "type": "file",
-        "md5": "f2eeb80745df4620dfec4fb38b489183"
+        "md5": "1c53b6cd5213aa0af56903aff907ec42"
     },
     {
         "path": "media",
@@ -1095,6 +1105,86 @@
         "md5": "f79ec138b56ad696f145fb23374525ce"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-12.jpg",
+        "type": "file",
+        "md5": "622633a98c1cebf5a01803a0b2889c2e"
+    },
+    {
+        "path": "/media/posts/22/images-13.jpg",
+        "type": "file",
+        "md5": "08bd00863301d838ede1434107434fe5"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-2xl.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-lg.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-md.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-sm.jpg",
+        "type": "file",
+        "md5": "ecfbab780b50b8b0cc99361064acabce"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-xl.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-xs.jpg",
+        "type": "file",
+        "md5": "3c700b2893e8ba204e39c45e3804f5a1"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-2xl.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-lg.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-md.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-sm.jpg",
+        "type": "file",
+        "md5": "855f7c9edc0167bfb70e4be29144b243"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-xl.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-xs.jpg",
+        "type": "file",
+        "md5": "fd423d0c6a1693fde5873550bcdcb4ff"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1632,7 +1722,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "26d97a8da04991c951e3ebe6c8dd44f9"
+        "md5": "acfd465b3e5a4050b8344984e38e7016"
     },
     {
         "path": "privacy-policy",
@@ -1642,7 +1732,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "23c33427eb49921142f4646cab2c0299"
+        "md5": "377024af17b9f21999e01d7e31dda7d5"
     },
     {
         "path": "rain-showerheads-creating-a-luxurious-and-relaxing-bathroom-experience",
@@ -1652,7 +1742,7 @@
     {
         "path": "/rain-showerheads-creating-a-luxurious-and-relaxing-bathroom-experience/index.html",
         "type": "file",
-        "md5": "ee4beef3bb7b9978fc5d6e971e95c765"
+        "md5": "2baad1564bccf0ddbdf6deecf3734eaf"
     },
     {
         "path": "robots.txt",
@@ -1662,7 +1752,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e7ae2b9292d655d1666dbfd9b0e6d8b0"
+        "md5": "d4218dcf536bc385804a7c572ec0e7d7"
     },
     {
         "path": "sitemap.xsl",
@@ -1677,7 +1767,7 @@
     {
         "path": "/smart-storage-solutions-for-an-organized-kitchen/index.html",
         "type": "file",
-        "md5": "e61cf86645070cd25bc2e11911ea1e10"
+        "md5": "c5a78c8238428d3fb862895f142a7236"
     },
     {
         "path": "stylish-and-functional-solutions-for-modern-kitchens",
@@ -1687,7 +1777,7 @@
     {
         "path": "/stylish-and-functional-solutions-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "0e303c75dad5db465ee1f5da5e6f6aaa"
+        "md5": "963e404d3ee11e65b60c9b79b6f0586b"
     },
     {
         "path": "stylish-and-space-saving-solutions-for-modern-bathrooms",
@@ -1697,7 +1787,7 @@
     {
         "path": "/stylish-and-space-saving-solutions-for-modern-bathrooms/index.html",
         "type": "file",
-        "md5": "01772f78defdb135b2927e8ffd8ecebf"
+        "md5": "9f71f80dfc04fa94a36b5f845c4d01bc"
     },
     {
         "path": "tags",
@@ -1712,7 +1802,7 @@
     {
         "path": "/tags/bathroom-units-and-accessories/index.html",
         "type": "file",
-        "md5": "97d685aaaea62feb8bc883b6750a9928"
+        "md5": "49095fc4a539c926bb13594dae830782"
     },
     {
         "path": "tags/built-in-appliances",
@@ -1722,7 +1812,7 @@
     {
         "path": "/tags/built-in-appliances/index.html",
         "type": "file",
-        "md5": "4708f2da6400b68021d2f5f827f2c26b"
+        "md5": "d5cc2380a9045d0e815be462d05c2b8c"
     },
     {
         "path": "tags/built-in-ovens",
@@ -1732,7 +1822,7 @@
     {
         "path": "/tags/built-in-ovens/index.html",
         "type": "file",
-        "md5": "5247fad6f3e4596b2852e6d56fc8a509"
+        "md5": "32f221a46c5012067d2960a0013027a8"
     },
     {
         "path": "tags/handleless-cabinets",
@@ -1742,12 +1832,12 @@
     {
         "path": "/tags/handleless-cabinets/index.html",
         "type": "file",
-        "md5": "d2bb5337a6c42e46f3640f6cbaf9bc65"
+        "md5": "9eb04c9d58b8bb123b89a11e7558dd30"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "067129aa2bb442d93f90f14da7164240"
+        "md5": "c0f18facbfa04afba318f27b2b055029"
     },
     {
         "path": "tags/induction-cooktops",
@@ -1757,7 +1847,7 @@
     {
         "path": "/tags/induction-cooktops/index.html",
         "type": "file",
-        "md5": "538f9f5701aceab74af741b752df4ebe"
+        "md5": "bd8fb9867d6b4198e8fc9d1ab43761eb"
     },
     {
         "path": "tags/integrated-dishwashers",
@@ -1767,7 +1857,7 @@
     {
         "path": "/tags/integrated-dishwashers/index.html",
         "type": "file",
-        "md5": "260e8f101c1dc6896d82d87a3981ae19"
+        "md5": "f107c1b76ebb929a5f2995e20c6d033e"
     },
     {
         "path": "tags/island-countertops",
@@ -1777,7 +1867,7 @@
     {
         "path": "/tags/island-countertops/index.html",
         "type": "file",
-        "md5": "96bbd697d8d295f814b6439a168a2452"
+        "md5": "e9114f87f47b305fcbd0f092fd23b85e"
     },
     {
         "path": "tags/kitchen-and-pantry-designs",
@@ -1787,7 +1877,7 @@
     {
         "path": "/tags/kitchen-and-pantry-designs/index.html",
         "type": "file",
-        "md5": "1ba622e6738bc235eed6507fde9d6c95"
+        "md5": "640a2b9df6901a3052316107206ffc5a"
     },
     {
         "path": "tags/led-mirrors",
@@ -1797,7 +1887,7 @@
     {
         "path": "/tags/led-mirrors/index.html",
         "type": "file",
-        "md5": "eac8e6e3b8f5452c1e9f7a4aa77d6fda"
+        "md5": "2fe9a4c37c90109831987483423a5266"
     },
     {
         "path": "tags/modern-kitchen-designs",
@@ -1807,7 +1897,7 @@
     {
         "path": "/tags/modern-kitchen-designs/index.html",
         "type": "file",
-        "md5": "e5034a5cf4002cccfcb51368eb1d372e"
+        "md5": "21d2bff28e59be65efba92643e9ebb0e"
     },
     {
         "path": "tags/open-concept-layouts",
@@ -1817,7 +1907,7 @@
     {
         "path": "/tags/open-concept-layouts/index.html",
         "type": "file",
-        "md5": "5e0a085ff1d11b9afab4142e3bed07f3"
+        "md5": "95a8c73f853cf65429e2cb2b5193e4ec"
     },
     {
         "path": "tags/pantry-pull-outs",
@@ -1827,7 +1917,7 @@
     {
         "path": "/tags/pantry-pull-outs/index.html",
         "type": "file",
-        "md5": "ff3f68d502949d15841e663773bfa149"
+        "md5": "b61a5b6c185207a26002a89534f82516"
     },
     {
         "path": "tags/pull-out-faucets",
@@ -1837,7 +1927,7 @@
     {
         "path": "/tags/pull-out-faucets/index.html",
         "type": "file",
-        "md5": "a0fd83981f0945c227dd0bea846e589b"
+        "md5": "077d6936063be32f7ab2b83e14d9e7e8"
     },
     {
         "path": "tags/rain-showerheads",
@@ -1847,7 +1937,7 @@
     {
         "path": "/tags/rain-showerheads/index.html",
         "type": "file",
-        "md5": "8ba1ec90e5d6f1de4266975419837c13"
+        "md5": "fcc5704551b6011b6d3238657e4f0c98"
     },
     {
         "path": "tags/storage-sinks-and-cabinets",
@@ -1857,7 +1947,7 @@
     {
         "path": "/tags/storage-sinks-and-cabinets/index.html",
         "type": "file",
-        "md5": "d0b4b89ab3b68b76fac38aec8baf363e"
+        "md5": "286154614d97075e8689ef8c29b15d4e"
     },
     {
         "path": "tags/under-mount-sinks",
@@ -1867,7 +1957,7 @@
     {
         "path": "/tags/under-mount-sinks/index.html",
         "type": "file",
-        "md5": "c403ce04b1ea564266266345e0720e1d"
+        "md5": "71dd5d33a8cd8a28758b44a368f74429"
     },
     {
         "path": "tags/wall-mounted-vanities",
@@ -1877,7 +1967,7 @@
     {
         "path": "/tags/wall-mounted-vanities/index.html",
         "type": "file",
-        "md5": "2e13878d85123af648e659f3c93d68ea"
+        "md5": "f984268ed8230216c55c80e5cafaca91"
     },
     {
         "path": "transform-your-bathroom-into-a-relaxing-retreat",
@@ -1887,7 +1977,7 @@
     {
         "path": "/transform-your-bathroom-into-a-relaxing-retreat/index.html",
         "type": "file",
-        "md5": "cbc63465ec78bb646cd17ab7612c5799"
+        "md5": "ad23833feef388a04b83f76064ae9e76"
     },
     {
         "path": "under-mount-sinks-a-stylish-and-practical-choice-for-modern-kitchens",
@@ -1897,7 +1987,7 @@
     {
         "path": "/under-mount-sinks-a-stylish-and-practical-choice-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "ff4eca78cc4f8a4e67148b05b1cbf2fc"
+        "md5": "cee4798cf9cbc3841e4ef89528d05203"
     },
     {
         "path": "wall-mounted-vanities-modern-solutions-for-a-stylish-and-functional-bathroom",
@@ -1907,6 +1997,6 @@
     {
         "path": "/wall-mounted-vanities-modern-solutions-for-a-stylish-and-functional-bathroom/index.html",
         "type": "file",
-        "md5": "35491df65eda5a93bb06733aab9d0be1"
+        "md5": "debf796313179a63142aba1e91bb5600"
     }
 ]
