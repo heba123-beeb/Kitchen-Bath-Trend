@@ -2,7 +2,37 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d97b4b68baa24cdac0b363bd6fba8899"
+        "md5": "feffdc573a87d65b47ba36941acfbfda"
+    },
+    {
+        "path": "a-complete-guide-to-stylish-and-functional-modern-kitchens",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-complete-guide-to-stylish-and-functional-modern-kitchens/index.html",
+        "type": "file",
+        "md5": "36ee8015d8cb0738d9fab330ece7bb08"
+    },
+    {
+        "path": "a-modern-and-efficient-solution-for-stylish-kitchen-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-modern-and-efficient-solution-for-stylish-kitchen-designs/index.html",
+        "type": "file",
+        "md5": "0e2fe4b66840d4e13c25dec112539f51"
+    },
+    {
+        "path": "a-modern-and-energy-efficient-choice-for-contemporary-kitchens",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-modern-and-energy-efficient-choice-for-contemporary-kitchens/index.html",
+        "type": "file",
+        "md5": "3974ce53e033f8c3a88840c7ad193ed3"
     },
     {
         "path": "a-smart-and-stylish-solution-for-modern-kitchens",
@@ -12,7 +42,7 @@
     {
         "path": "/a-smart-and-stylish-solution-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "89efe77fb77d6689889912c21dee0a57"
+        "md5": "56d72676698172d3339fd7ca9b68143b"
     },
     {
         "path": "about-us",
@@ -22,7 +52,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "d8ef88cb34596a90472346ab5a6ae148"
+        "md5": "28103a8dfddddf5a539ed65369b5274e"
     },
     {
         "path": "assets",
@@ -107,7 +137,7 @@
     {
         "path": "/authors/mark-e-thomas/index.html",
         "type": "file",
-        "md5": "3bab7b7031b99bfd6b35b49f301746fe"
+        "md5": "44f6a7c77051ed7116f6444e0bd27797"
     },
     {
         "path": "authors/mark-e-thomas/page",
@@ -122,7 +152,7 @@
     {
         "path": "/authors/mark-e-thomas/page/2/index.html",
         "type": "file",
-        "md5": "d617ea78be772c7e9f0c5ab1d56d1b39"
+        "md5": "38e5d94bd03b69a9dfae40903152c5c9"
     },
     {
         "path": "built-in-ovens-a-perfect-blend-of-modern-design-and-cooking-performance",
@@ -132,7 +162,7 @@
     {
         "path": "/built-in-ovens-a-perfect-blend-of-modern-design-and-cooking-performance/index.html",
         "type": "file",
-        "md5": "6dfe4952350c108dceb2ecd3c7225b26"
+        "md5": "415090dc25415256b800160e790847da"
     },
     {
         "path": "combining-modern-style-and-everyday-kitchen-convenience",
@@ -142,7 +172,7 @@
     {
         "path": "/combining-modern-style-and-everyday-kitchen-convenience/index.html",
         "type": "file",
-        "md5": "1a5086372629c924e61717469d3756fd"
+        "md5": "1c50da75fdb22fec20406e6fddc4e7b8"
     },
     {
         "path": "contact-us",
@@ -152,7 +182,7 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "05355339864a88523eeb7929e1b95833"
+        "md5": "29e05a3ba8bb8672315a3e4584d05128"
     },
     {
         "path": "creating-spacious-and-functional-kitchen-interiors",
@@ -162,17 +192,27 @@
     {
         "path": "/creating-spacious-and-functional-kitchen-interiors/index.html",
         "type": "file",
-        "md5": "603551db434577469159889b3207f301"
+        "md5": "089b8719fea486a6c57629dc4653a859"
+    },
+    {
+        "path": "enhance-your-home-with-modern-lighting-and-elegant-reflective-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-home-with-modern-lighting-and-elegant-reflective-designs/index.html",
+        "type": "file",
+        "md5": "6cf4b5d71b09ae72bc0af2b5aefdac77"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1ca9d5b9380de0ecd4eed51963f19345"
+        "md5": "39ce3eb362e15db4ecb563a3fc2c7594"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "14da4387f1595d08cf299e220b16c83b"
+        "md5": "430617719ab6055b6f2715cded06360f"
     },
     {
         "path": "handleless-cabinets-sleek-and-elegant-solutions-for-contemporary-kitchens",
@@ -182,12 +222,12 @@
     {
         "path": "/handleless-cabinets-sleek-and-elegant-solutions-for-contemporary-kitchens/index.html",
         "type": "file",
-        "md5": "c52d52ea3ee0d690a8e68b7f027eae51"
+        "md5": "7a5a0ca59bfed30ca18472a982c1a2c0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6b8aeba8b521521f87fbfedf3b30524d"
+        "md5": "000ba0b8261d627e641f67539feac37f"
     },
     {
         "path": "integrated-dishwashers-a-seamless-and-stylish-solution-for-modern-kitchens",
@@ -197,7 +237,7 @@
     {
         "path": "/integrated-dishwashers-a-seamless-and-stylish-solution-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "4c651d36b72c2cfd538808c2a85b40a2"
+        "md5": "e195684273479b4e3f9c4a5df2c75ad2"
     },
     {
         "path": "island-countertops-stylish-and-functional-ideas-for-the-perfect-kitchen",
@@ -207,7 +247,7 @@
     {
         "path": "/island-countertops-stylish-and-functional-ideas-for-the-perfect-kitchen/index.html",
         "type": "file",
-        "md5": "79ca8d5350637d54aab976960a9607ab"
+        "md5": "a05ed4364890856b4dceb07596a341f6"
     },
     {
         "path": "led-mirrors-modern-lighting-and-elegant-bathroom-solutions",
@@ -217,7 +257,7 @@
     {
         "path": "/led-mirrors-modern-lighting-and-elegant-bathroom-solutions/index.html",
         "type": "file",
-        "md5": "503669dbbfff185c3f16f5e3d8d95fa8"
+        "md5": "34f65c3f2e77bc2c46fea42fad1594a6"
     },
     {
         "path": "media",
@@ -835,6 +875,406 @@
         "md5": "6f656fa2240fbedae4440ac4ac327dac"
     },
     {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/images-2026-10-27T092253.761.jpg",
+        "type": "file",
+        "md5": "ccd36519597217fc7930e4fd9dcfd6ea"
+    },
+    {
+        "path": "/media/posts/19/images-2026-10-27T092303.597.jpg",
+        "type": "file",
+        "md5": "b0ec6889ddd6a839ed58a121f5aa5ac6"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-2xl.jpg",
+        "type": "file",
+        "md5": "7bc2fd333aea6fb767a944f9e8f84dd8"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-lg.jpg",
+        "type": "file",
+        "md5": "7bc2fd333aea6fb767a944f9e8f84dd8"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-md.jpg",
+        "type": "file",
+        "md5": "7bc2fd333aea6fb767a944f9e8f84dd8"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-sm.jpg",
+        "type": "file",
+        "md5": "7bc2fd333aea6fb767a944f9e8f84dd8"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-xl.jpg",
+        "type": "file",
+        "md5": "7bc2fd333aea6fb767a944f9e8f84dd8"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092253.761-xs.jpg",
+        "type": "file",
+        "md5": "4385fc3254ea003cba91c422f8af905c"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-2xl.jpg",
+        "type": "file",
+        "md5": "12971cc3b2c686371c5427739a014e33"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-lg.jpg",
+        "type": "file",
+        "md5": "12971cc3b2c686371c5427739a014e33"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-md.jpg",
+        "type": "file",
+        "md5": "12971cc3b2c686371c5427739a014e33"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-sm.jpg",
+        "type": "file",
+        "md5": "12971cc3b2c686371c5427739a014e33"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-xl.jpg",
+        "type": "file",
+        "md5": "12971cc3b2c686371c5427739a014e33"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T092303.597-xs.jpg",
+        "type": "file",
+        "md5": "f0d9114b95d124929dbb313b662de12c"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/images-2026-10-29T004533.120.jpg",
+        "type": "file",
+        "md5": "476593603f14e3715c86a486142edaf4"
+    },
+    {
+        "path": "/media/posts/20/images-2026-10-29T004539.814.jpg",
+        "type": "file",
+        "md5": "de5d97fab771cb02439ab85ca211b2c8"
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-2xl.jpg",
+        "type": "file",
+        "md5": "5dae07a6ede0a723d6fc50dc43e756a2"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-lg.jpg",
+        "type": "file",
+        "md5": "5dae07a6ede0a723d6fc50dc43e756a2"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-md.jpg",
+        "type": "file",
+        "md5": "5dae07a6ede0a723d6fc50dc43e756a2"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-sm.jpg",
+        "type": "file",
+        "md5": "5cbb82fbc994f025aa096714cf12afb5"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-xl.jpg",
+        "type": "file",
+        "md5": "5dae07a6ede0a723d6fc50dc43e756a2"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004533.120-xs.jpg",
+        "type": "file",
+        "md5": "0ab086d2ff081b6d8a7bf423bc11ef87"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-2xl.jpg",
+        "type": "file",
+        "md5": "92ef27bafcd05946f0dc756ac33d9098"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-lg.jpg",
+        "type": "file",
+        "md5": "92ef27bafcd05946f0dc756ac33d9098"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-md.jpg",
+        "type": "file",
+        "md5": "92ef27bafcd05946f0dc756ac33d9098"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-sm.jpg",
+        "type": "file",
+        "md5": "c1cddcd3f28acea3b07408683e4e1247"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-xl.jpg",
+        "type": "file",
+        "md5": "92ef27bafcd05946f0dc756ac33d9098"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T004539.814-xs.jpg",
+        "type": "file",
+        "md5": "0eefe0bf72c167af22878d8febf38b05"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T201931.501.jpg",
+        "type": "file",
+        "md5": "62e9fff8c781fed54b1b8dd7c8d7e758"
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T201935.908.jpg",
+        "type": "file",
+        "md5": "1b68a6a13c3dbf712d49110e9afeb606"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-2xl.jpg",
+        "type": "file",
+        "md5": "39b541975cc2c0a82abc2e64359865cf"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-lg.jpg",
+        "type": "file",
+        "md5": "39b541975cc2c0a82abc2e64359865cf"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-md.jpg",
+        "type": "file",
+        "md5": "39b541975cc2c0a82abc2e64359865cf"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-sm.jpg",
+        "type": "file",
+        "md5": "28a0a189ff517350c558872183509461"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-xl.jpg",
+        "type": "file",
+        "md5": "39b541975cc2c0a82abc2e64359865cf"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201931.501-xs.jpg",
+        "type": "file",
+        "md5": "c8d20c5cd9f8dc58f53fc9803715f209"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-2xl.jpg",
+        "type": "file",
+        "md5": "fc75a4aa8c5940b3b518cef8a5f3e7b9"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-lg.jpg",
+        "type": "file",
+        "md5": "fc75a4aa8c5940b3b518cef8a5f3e7b9"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-md.jpg",
+        "type": "file",
+        "md5": "fc75a4aa8c5940b3b518cef8a5f3e7b9"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-sm.jpg",
+        "type": "file",
+        "md5": "cb4e090ec7acaf6c904382df37807142"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-xl.jpg",
+        "type": "file",
+        "md5": "fc75a4aa8c5940b3b518cef8a5f3e7b9"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T201935.908-xs.jpg",
+        "type": "file",
+        "md5": "f79ec138b56ad696f145fb23374525ce"
+    },
+    {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-12.jpg",
+        "type": "file",
+        "md5": "622633a98c1cebf5a01803a0b2889c2e"
+    },
+    {
+        "path": "/media/posts/22/images-13.jpg",
+        "type": "file",
+        "md5": "08bd00863301d838ede1434107434fe5"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-2xl.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-lg.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-md.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-sm.jpg",
+        "type": "file",
+        "md5": "ecfbab780b50b8b0cc99361064acabce"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-xl.jpg",
+        "type": "file",
+        "md5": "2e87e7ebfd55f2c90bac5eeb78d497ec"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-12-xs.jpg",
+        "type": "file",
+        "md5": "3c700b2893e8ba204e39c45e3804f5a1"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-2xl.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-lg.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-md.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-sm.jpg",
+        "type": "file",
+        "md5": "855f7c9edc0167bfb70e4be29144b243"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-xl.jpg",
+        "type": "file",
+        "md5": "237b1f907c693b7f588c4816e2765e93"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-13-xs.jpg",
+        "type": "file",
+        "md5": "fd423d0c6a1693fde5873550bcdcb4ff"
+    },
+    {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093832.493.jpg",
+        "type": "file",
+        "md5": "989bbb096cb98997167005be8ef77cd1"
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093853.848.jpg",
+        "type": "file",
+        "md5": "198acee022a2894c58277b1087723872"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-2xl.jpg",
+        "type": "file",
+        "md5": "78513beb2b21614fb78fe3355ad5f7f4"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-lg.jpg",
+        "type": "file",
+        "md5": "78513beb2b21614fb78fe3355ad5f7f4"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-md.jpg",
+        "type": "file",
+        "md5": "78513beb2b21614fb78fe3355ad5f7f4"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-sm.jpg",
+        "type": "file",
+        "md5": "78513beb2b21614fb78fe3355ad5f7f4"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-xl.jpg",
+        "type": "file",
+        "md5": "78513beb2b21614fb78fe3355ad5f7f4"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093832.493-xs.jpg",
+        "type": "file",
+        "md5": "077744e4234c149ca4d3134b694629fd"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-2xl.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-lg.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-md.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-sm.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-xl.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093853.848-xs.jpg",
+        "type": "file",
+        "md5": "6181d146127f4e628fb75eeac9093543"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1372,7 +1812,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "03af26a4a8dd16d4f7ca7fcc63a29c84"
+        "md5": "9658c0a3dee3188ea842ae36ccfafc94"
     },
     {
         "path": "privacy-policy",
@@ -1382,7 +1822,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "3b396e2687184f26139ba462ecc44511"
+        "md5": "7061341f6b1d816eefc81401b237d76f"
     },
     {
         "path": "rain-showerheads-creating-a-luxurious-and-relaxing-bathroom-experience",
@@ -1392,7 +1832,7 @@
     {
         "path": "/rain-showerheads-creating-a-luxurious-and-relaxing-bathroom-experience/index.html",
         "type": "file",
-        "md5": "f73e8fb665224441916e23d092165e49"
+        "md5": "4d55710d8cc693c8bf50f260e329d33e"
     },
     {
         "path": "robots.txt",
@@ -1402,7 +1842,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "255939c118fc5070d4d66b30cf86cc74"
+        "md5": "bdafd25bb6c0c8536540f3dd4301b594"
     },
     {
         "path": "sitemap.xsl",
@@ -1417,7 +1857,7 @@
     {
         "path": "/smart-storage-solutions-for-an-organized-kitchen/index.html",
         "type": "file",
-        "md5": "1b507794f911f3012805c0cbf966b1d3"
+        "md5": "61fdce466f5341a4afa9c06e0166f35d"
     },
     {
         "path": "stylish-and-functional-solutions-for-modern-kitchens",
@@ -1427,7 +1867,7 @@
     {
         "path": "/stylish-and-functional-solutions-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "5b66338263e05df461678ccabbd310b4"
+        "md5": "68c9dc82ce880a61b6d699ff711f529a"
     },
     {
         "path": "stylish-and-space-saving-solutions-for-modern-bathrooms",
@@ -1437,7 +1877,7 @@
     {
         "path": "/stylish-and-space-saving-solutions-for-modern-bathrooms/index.html",
         "type": "file",
-        "md5": "a1dc63ff04a33c9b1254ff10d3bef373"
+        "md5": "ac4d7d10cd6e549a85accd7f15531ac5"
     },
     {
         "path": "tags",
@@ -1452,7 +1892,7 @@
     {
         "path": "/tags/bathroom-units-and-accessories/index.html",
         "type": "file",
-        "md5": "4807539c6709340adb86cbaacb9ccc80"
+        "md5": "1a20c533b2d8b00058e85501beccc6ed"
     },
     {
         "path": "tags/built-in-appliances",
@@ -1462,7 +1902,7 @@
     {
         "path": "/tags/built-in-appliances/index.html",
         "type": "file",
-        "md5": "f347fa371c1bfda36885608875b15573"
+        "md5": "e8a842bfd13e9f8adc246d5c1efd0465"
     },
     {
         "path": "tags/built-in-ovens",
@@ -1472,7 +1912,7 @@
     {
         "path": "/tags/built-in-ovens/index.html",
         "type": "file",
-        "md5": "59bd2a2c7bf336cd2a73c38a511decd6"
+        "md5": "260fa21e2d9326ff52987e78eadc4817"
     },
     {
         "path": "tags/handleless-cabinets",
@@ -1482,12 +1922,12 @@
     {
         "path": "/tags/handleless-cabinets/index.html",
         "type": "file",
-        "md5": "e6e8ec9530f13b4dc3ac055422c31859"
+        "md5": "0930551d09f127aa03fb85c9fa2208f7"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4c0c45c6532fb1e600e90a46fdb251f1"
+        "md5": "db03e81975bfd1aeba25d73c5d340a30"
     },
     {
         "path": "tags/induction-cooktops",
@@ -1497,7 +1937,7 @@
     {
         "path": "/tags/induction-cooktops/index.html",
         "type": "file",
-        "md5": "ba8e520fac70aa48322280cc711005d7"
+        "md5": "d9b6d47a764da8999d4d5eb8b9e378e4"
     },
     {
         "path": "tags/integrated-dishwashers",
@@ -1507,7 +1947,7 @@
     {
         "path": "/tags/integrated-dishwashers/index.html",
         "type": "file",
-        "md5": "98937a5c2848a7bf35c10e3abd30b862"
+        "md5": "ad099b3f5e8b3edc018dbab6b152679f"
     },
     {
         "path": "tags/island-countertops",
@@ -1517,7 +1957,7 @@
     {
         "path": "/tags/island-countertops/index.html",
         "type": "file",
-        "md5": "be0773ad381663c545e95bbb21cc3480"
+        "md5": "3226731e6b5a18a2c0060ec609422be5"
     },
     {
         "path": "tags/kitchen-and-pantry-designs",
@@ -1527,7 +1967,7 @@
     {
         "path": "/tags/kitchen-and-pantry-designs/index.html",
         "type": "file",
-        "md5": "ea862be7be2ac98ee700f1c06bf93fa0"
+        "md5": "1428678238b2de7597b0f9919292ed9e"
     },
     {
         "path": "tags/led-mirrors",
@@ -1537,7 +1977,7 @@
     {
         "path": "/tags/led-mirrors/index.html",
         "type": "file",
-        "md5": "a10e9884222aa70d78a8357a6a5cfe38"
+        "md5": "026a1ca8c7359864556e405a3fe94be5"
     },
     {
         "path": "tags/modern-kitchen-designs",
@@ -1547,7 +1987,7 @@
     {
         "path": "/tags/modern-kitchen-designs/index.html",
         "type": "file",
-        "md5": "d9ab57204d893b0f29ab836adf7cd636"
+        "md5": "d52b4614662693158cc685ca759d4829"
     },
     {
         "path": "tags/open-concept-layouts",
@@ -1557,7 +1997,7 @@
     {
         "path": "/tags/open-concept-layouts/index.html",
         "type": "file",
-        "md5": "9f1f6bfe55e307ff063f581d01ff7484"
+        "md5": "92b5e2623b85269d1ce47e9a6ffc0d72"
     },
     {
         "path": "tags/pantry-pull-outs",
@@ -1567,7 +2007,7 @@
     {
         "path": "/tags/pantry-pull-outs/index.html",
         "type": "file",
-        "md5": "6c9d1671f8a713026063115c7180d698"
+        "md5": "570b0ffc979d1c6846b1a7c7aef944f0"
     },
     {
         "path": "tags/pull-out-faucets",
@@ -1577,7 +2017,7 @@
     {
         "path": "/tags/pull-out-faucets/index.html",
         "type": "file",
-        "md5": "66625ad99d9e1e65537f2185fe0de3f2"
+        "md5": "c2ad253d3c2d534969bd616694f38d71"
     },
     {
         "path": "tags/rain-showerheads",
@@ -1587,7 +2027,7 @@
     {
         "path": "/tags/rain-showerheads/index.html",
         "type": "file",
-        "md5": "c75f5043f71baf907be99aca3f740102"
+        "md5": "8c28f9d9d7b50deaf72b63ba7f1c4c8b"
     },
     {
         "path": "tags/storage-sinks-and-cabinets",
@@ -1597,7 +2037,7 @@
     {
         "path": "/tags/storage-sinks-and-cabinets/index.html",
         "type": "file",
-        "md5": "6b2877b34490893e61e518982b6fb836"
+        "md5": "332118ad21e5d2ae66f7e19225a15e37"
     },
     {
         "path": "tags/under-mount-sinks",
@@ -1607,7 +2047,7 @@
     {
         "path": "/tags/under-mount-sinks/index.html",
         "type": "file",
-        "md5": "2e80b4fb014254af5f289aeff0138427"
+        "md5": "371943edb5de80c78bd2cc0748ed7fce"
     },
     {
         "path": "tags/wall-mounted-vanities",
@@ -1617,7 +2057,17 @@
     {
         "path": "/tags/wall-mounted-vanities/index.html",
         "type": "file",
-        "md5": "2419d98d568e3a17faa9d460f6d37bf9"
+        "md5": "12c864f7171a77fccfa04eb5922c146a"
+    },
+    {
+        "path": "transform-your-bathroom-into-a-relaxing-retreat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-bathroom-into-a-relaxing-retreat/index.html",
+        "type": "file",
+        "md5": "586103e15d974ecc38b868089793e1f7"
     },
     {
         "path": "under-mount-sinks-a-stylish-and-practical-choice-for-modern-kitchens",
@@ -1627,7 +2077,7 @@
     {
         "path": "/under-mount-sinks-a-stylish-and-practical-choice-for-modern-kitchens/index.html",
         "type": "file",
-        "md5": "ac78e22011f408acb55d92324379fe4f"
+        "md5": "fd77580ef9f638bd096560b3eb5cd73b"
     },
     {
         "path": "wall-mounted-vanities-modern-solutions-for-a-stylish-and-functional-bathroom",
@@ -1637,6 +2087,6 @@
     {
         "path": "/wall-mounted-vanities-modern-solutions-for-a-stylish-and-functional-bathroom/index.html",
         "type": "file",
-        "md5": "2c1c4bf327b1ce458118be740eaa3f9a"
+        "md5": "a237b72d297aaf4609f2a0190c7434ac"
     }
 ]
